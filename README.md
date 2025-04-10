@@ -1,4 +1,21 @@
-<h2 align="left">Hello, I’m Vincent – a mobile software developer</h2>
+<h1 align="center">Hi 👋, I'm Vincent</h1>
+
+<h2 align="center">A mobile software developer</h2>
+
+I has been in the workforce since 2018.
+I’m versatile with various technologies, ranging from Backend to website development.
+I can assist you with designing, analyzing UI and UX, and occasionally even handling data analytics.
+
+I’m currently working on a few exciting startup projects, which I hope to showcase here soon.
+
+My GitHub doesn’t have much public content since most of my projects are private. However, there are a few interesting repositories I’ve created in the past, such as:
+
+react-native-template-thunk-paper (GitHub link): A template I built based on my experience for React Native projects. It comes pre-integrated with quite a few features. However, it hasn’t been updated in a while, and I’m planning to migrate this framework to Expo.
+
+TikTok-Interactive-PAZ-Boom (GitHub link): An exciting project that lets you create a PvZ game version that directly interacts with any TikTok livestream.
+
+There’s much more cool stuff in my repos; feel free to explore them at your own pace.
+Thank you for reading!
 
 ###
 
