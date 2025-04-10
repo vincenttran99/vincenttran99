@@ -72,9 +72,7 @@
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
-  <img width="12" />
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
