@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Vincent</h1>
+# Hi, I'm Vincent! 👋
 
-<h2 align="center">A mobile software developer</h2>
+I’m a **mobile software developer** who has been in the industry since 2018.  
+I specialize in **React Native**, **Backend Development**, and **UI/UX Design and Analytics**.  
+Currently, I’m working on some exciting startup projects and hope to share them here soon. 🚀
 
-I has been in the workforce since 2018.
-I’m versatile with various technologies, ranging from Backend to website development.
-I can assist you with designing, analyzing UI and UX, and occasionally even handling data analytics.
+## Featured Projects 🛠️
 
-I’m currently working on a few exciting startup projects, which I hope to showcase here soon.
+### [react-native-template-thunk-paper](https://github.com/vincenttran99/react-native-template-thunk-paper)
+A template I built based on my experience with React Native projects.  
+It comes pre-integrated with several features to streamline development.  
+> **Note:** This template hasn’t been updated in a while, and I’m planning to migrate it to Expo.
 
-My GitHub doesn’t have much public content since most of my projects are private. However, there are a few interesting repositories I’ve created in the past, such as:
+### [TikTok-Interactive-PAZ-Boom](https://github.com/vincenttran99/TikTok-Interactive-PAZ-Boom)
+An exciting project that lets you create a PvZ-inspired game version that directly interacts with any TikTok livestream.  
 
-react-native-template-thunk-paper (GitHub link): A template I built based on my experience for React Native projects. It comes pre-integrated with quite a few features. However, it hasn’t been updated in a while, and I’m planning to migrate this framework to Expo.
+## Connect with Me 🌐
+- GitHub: [vincenttran99](https://github.com/vincenttran99)
+- LinkedIn: [vincenttran99](https://www.linkedin.com/in/vincenttran99/)
 
-TikTok-Interactive-PAZ-Boom (GitHub link): An exciting project that lets you create a PvZ game version that directly interacts with any TikTok livestream.
+Thanks for visiting my profile! 😊
 
-There’s much more cool stuff in my repos; feel free to explore them at your own pace.
-Thank you for reading!
 
 ###
 
