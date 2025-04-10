@@ -21,15 +21,12 @@ A clean social media network for Vietnam that my colleagues and I are collaborat
 
 ### [ZipTravel Channel](https://www.youtube.com/@Zip.Travel)
 A travel-focused YouTube channel I am building.  
-> **Content:** Showcasing destinations, travel tips, and cultural experiences to inspire wanderlust.
 
 ### [ZipTravel.info](https://ziptravel.info/)
 An automated travel website designed to simplify trip planning.  
-> **Innovation:** Integrated automation to provide tailored travel recommendations.
 
 ### [Mystic Insight - AI Psychic](https://play.google.com/store/apps/details?id=com.zipenter.aipsychic)
-An app for those interested in spirituality and psychic insights.  
-> **Experience:** Combines AI technology with mystic guidance to offer unique user interactions.
+Interested in spirituality? Check out this app I developed.
 
 
 There’s much more cool stuff in my repos; feel free to explore them at your own pace.
