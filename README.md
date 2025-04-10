@@ -47,7 +47,7 @@ Thanks for visiting my profile! 😊
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/180/180813.gif"  />
 
 ###
 
