@@ -144,4 +144,4 @@ Thanks for visiting my profile! 😊
 
 ## Connect with me
 
-<p align="center">🔗 Vincen Tran: <a href="mailto://vincenttrandeveloper@gmail.com" target="_blank">vincenttrandeveloper@gmail.com</a></p>
+<p align="center">🔗 Vincen Tran: <a href="mailto:vincenttrandeveloper@gmail.com" target="_blank">vincenttrandeveloper@gmail.com</a></p>
