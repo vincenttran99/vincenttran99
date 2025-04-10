@@ -14,10 +14,7 @@ It comes pre-integrated with several features to streamline development.
 ### [TikTok-Interactive-PAZ-Boom](https://github.com/vincenttran99/TikTok-Interactive-PAZ-Boom)
 An exciting project that lets you create a PvZ-inspired game version that directly interacts with any TikTok livestream.  
 
-## Connect with Me 🌐
-- GitHub: [vincenttran99](https://github.com/vincenttran99)
-- LinkedIn: [vincenttran99](https://www.linkedin.com/in/vincenttran99/)
-
+There’s much more cool stuff in my repos; feel free to explore them at your own pace.
 Thanks for visiting my profile! 😊
 
 
