@@ -1,7 +1,8 @@
 # Hi, I'm Vincent! 👋
 
-I’m a **mobile software developer** who has been in the industry since 2018.  
-I specialize in **React Native**, **Backend Development**, and **UI/UX Design and Analytics**.  
+I’m a **mobile software developer** who has been in the industry since 2018, specialize in **React Native**.  
+I’m versatile with various technologies, ranging from **Backend** to **website** development.
+I can assist you with **designing**, analyzing **UI and UX**, and occasionally even handling **data analytics**.
 Currently, I’m working on some exciting startup projects and hope to share them here soon. 🚀
 
 ## Featured Projects 🛠️
@@ -140,4 +141,7 @@ Thanks for visiting my profile! 😊
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+
+## Connect with me
+
+<p align="center">🔗 Vincen Tran: <a href="mailto://vincenttrandeveloper@gmail.com" target="_blank">vincenttrandeveloper@gmail.com</a></p>
