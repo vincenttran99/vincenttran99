@@ -15,8 +15,26 @@ It comes pre-integrated with several features to streamline development.
 ### [TikTok-Interactive-PAZ-Boom](https://github.com/vincenttran99/TikTok-Interactive-PAZ-Boom)
 An exciting project that lets you create a PvZ-inspired game version that directly interacts with any TikTok livestream.  
 
+### [Whiteber](https://whiteber.com/)
+A clean social media network for Vietnam that my colleagues and I are collaboratively developing.  
+> **Highlight:** Focused on providing a safe and engaging platform for users in Vietnam.
+
+### [ZipTravel Channel](https://www.youtube.com/@Zip.Travel)
+A travel-focused YouTube channel I am building.  
+> **Content:** Showcasing destinations, travel tips, and cultural experiences to inspire wanderlust.
+
+### [ZipTravel.info](https://ziptravel.info/)
+An automated travel website designed to simplify trip planning.  
+> **Innovation:** Integrated automation to provide tailored travel recommendations.
+
+### [Mystic Insight - AI Psychic](https://play.google.com/store/apps/details?id=com.zipenter.aipsychic)
+An app for those interested in spirituality and psychic insights.  
+> **Experience:** Combines AI technology with mystic guidance to offer unique user interactions.
+
+
 There’s much more cool stuff in my repos; feel free to explore them at your own pace.
 Thanks for visiting my profile! 😊
+
 
 
 ###
@@ -124,10 +142,8 @@ Thanks for visiting my profile! 😊
 ###
 
 <div align="left">
-  <a href="mailto:vincenttrandeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://www.youtube.com/@Zip.Travel" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>  
+  <a href="mailto:vincenttrandeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
 ###
