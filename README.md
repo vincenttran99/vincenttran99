@@ -7,10 +7,8 @@ Currently, I’m working on some exciting startup projects and hope to share the
 
 ## Featured Projects 🛠️
 
-### [react-native-template-thunk-paper](https://github.com/vincenttran99/react-native-template-thunk-paper)
-A template I built based on my experience with React Native projects.  
-It comes pre-integrated with several features to streamline development.  
-> **Note:** This template hasn’t been updated in a while, and I’m planning to migrate it to Expo.
+### [react-native-mono-template](https://github.com/vincenttran99/react-native-mono-template)
+Template for React native focused on performance optimization  
 
 ### [TikTok-Interactive-PAZ-Boom](https://github.com/vincenttran99/TikTok-Interactive-PAZ-Boom)
 An exciting project that lets you create a PvZ-inspired game version that directly interacts with any TikTok livestream.  
