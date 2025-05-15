@@ -1,5 +1,5 @@
 # Hi, I'm Vincent! 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincenttran99&label=Profile%20views&color=0e75b6&style=flat" alt="ikrambagban" /> </p>
 I’m a **mobile software developer** who has been in the industry since 2018, specialize in **React Native**.  
 I’m versatile with various technologies, ranging from **Backend** to **website** development.
 I can assist you with **designing**, analyzing **UI and UX**, and occasionally even handling **data analytics**.
@@ -144,8 +144,11 @@ Thanks for visiting my profile! 😊
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/vincenttran99/vincenttran99/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincenttran99/vincenttran99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincenttran99/vincenttran99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vincenttran99/vincenttran99/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
